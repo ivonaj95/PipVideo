@@ -9,8 +9,8 @@
 
     <androidx.media3.ui.PlayerView
         android:id="@+id/video_view"
-        android:layout_width="480dp"
-        android:layout_height="270dp"
+        android:layout_width="720dp"
+        android:layout_height="405dp"
         app:layout_constraintBottom_toTopOf="@id/text_view"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
